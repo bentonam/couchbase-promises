@@ -1,6 +1,12 @@
 # Change Log
 
-## 4.0
+## 4.4
+
+* __Bug Fix__
+  + Support for lookupIn method `options` parameter.
+
+* __New Features__
+  + Adding method `LookupIn.prototype.getCount()`.
 
 ### 4.3.0
     + Updating `couchbase` version to 2.4.0.
